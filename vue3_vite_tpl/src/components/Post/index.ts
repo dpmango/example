@@ -1,0 +1,1 @@
+export {default as PostCategories} from './Categories.vue'
