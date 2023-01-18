@@ -1,15 +1,16 @@
 # Example projects to starts with better frontend
 
 ### NAV
--VUE
--REACT
--Vue-demos
+- [VUE3_vite_tpl](https://github.com/dpmango/example/tree/main/vue3_vite_tpl) 
+- REACT
+- [VUE_demos][https://github.com/dpmango/example/tree/main/vue_demos]
 
 ### Typescript
 Starting from 2023, all projects comes with default typescript support thanks to faster building times using Vite
 
 ### VUE
-Please check example bootstrap project as /vue_3_vite_tpl[https://github.com/dpmango/example/vue_3_vite_tpl] featuring:
+Please check example project at [vue_3_vite_tpl](https://github.com/dpmango/example/tree/main/vue3_vite_tpl) featuring:
+
 - Vue3
 - Pinia as Vuex replacement
 - Eslint
@@ -18,7 +19,7 @@ Please check example bootstrap project as /vue_3_vite_tpl[https://github.com/dpm
 - Tailwind (optional)
 
 ### REACT
-Please check example bootstrap project as /react_vite_tpl[https://github.com/dpmango/example/react_vite_tpl] featuring:
+#### Coming soon
 - React18+
 - Redux/Mobx/Context state
 
