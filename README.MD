@@ -1,9 +1,11 @@
 # Example projects to starts with better frontend
 
 ### NAV
-- [VUE3_vite_tpl](https://github.com/dpmango/example/tree/main/vue3_vite_tpl) 
+- [VUE3_vite_tpl](https://github.com/dpmango/example/tree/main/builds/vue3_vite_tpl) 
 - REACT
-- [VUE_demos][https://github.com/dpmango/example/tree/main/vue_demos]
+- [DEMO_vue][https://github.com/dpmango/example/tree/main/demo_vue]
+- [DEMO_react][https://github.com/dpmango/example/tree/main/demo_react]
+
 
 ### Typescript
 Starting from 2023, all projects comes with default typescript support thanks to faster building times using Vite
