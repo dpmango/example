@@ -26,6 +26,8 @@ const ProtectedRoute = () => {
 const Router = () => {
   return (
     <Routes>
+      <Route index element={<HomePage />} />
+
       {/* <Route path="/auth" element={<Authorization />}>
         <Route index element={<AuthorizationForm />} />
         <Route path="validation" element={<AuthorizationValidate />} />
