@@ -1,29 +1,39 @@
 # Example projects to starts with better frontend
 
-### NAV
-- [VUE3_vite_tpl](https://github.com/dpmango/example/tree/main/builds/vue3_vite_tpl) 
-- REACT
-- [DEMO_vue][https://github.com/dpmango/example/tree/main/demo_vue]
-- [DEMO_react][https://github.com/dpmango/example/tree/main/demo_react]
+## NAV
+- [Vue_vite_tpl](https://github.com/dpmango/example/tree/main/START/vue3_vite_tpl) 
+- [React_vite_tpl](https://github.com/dpmango/example/tree/main/START/react_18_vite_tpl) 
+
+- [DEMO/Vue][https://github.com/dpmango/example/tree/main/DEMO/Vue]
+- [DEMO/React][https://github.com/dpmango/example/tree/main/DEMO/React]
 
 
-### Typescript
-Starting from 2023, all projects comes with default typescript support thanks to faster building times using Vite
+### Start
 
 ### VUE
-Please check example project at [vue_3_vite_tpl](https://github.com/dpmango/example/tree/main/vue3_vite_tpl) featuring:
+Please check example project at [Vue_vite_tpl](https://github.com/dpmango/example/tree/main/START/vue3_vite_tpl) featuring:
 
 - Vue3
-- Pinia as Vuex replacement
+- Pinia
 - Eslint
 - Stylelint
 - Prettier
 - Tailwind (optional)
 
 ### REACT
-#### Coming soon
+Please check example project at [Vue_vite_tpl](https://github.com/dpmango/example/tree/main/START/vue3_vite_tpl) featuring:
 - React18+
-- Redux/Mobx/Context state
+- Redux toolkit
+- Eslint
+- Prettier
+- Auto-imports
 
-### VUE-demos
+
+### DEMOS
 Different pieces of code as a hint, include work samples from various projects
+
+#### VUE
+[DEMO/Vue][https://github.com/dpmango/example/tree/main/DEMO/Vue]
+
+#### React
+[DEMO/React][https://github.com/dpmango/example/tree/main/DEMO/React]

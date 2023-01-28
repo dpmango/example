@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #fff;
+  color: #2e2b3b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  min-width: 320px;
+  max-width: 100%;
+  margin: 0;
+  touch-action: pan-y;
+  -webkit-text-size-adjust: none;
+  &.js-locked {
+    overflow: hidden;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration-skip-ink: none;
+  text-decoration: none;
+}
